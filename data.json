@@ -1,0 +1,43 @@
+{
+  "Arabica": [
+    {
+      "foto": "images/produk/product_capuchino.jpg",
+      "nama": "Cappuccino Arabica",
+      "size": "500 Gram",
+      "harga": "200.000",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_espresso.jpg",
+      "nama": "Pahit Arabica",
+      "size": "100 Gram",
+      "harga": "100.000",
+      "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Arabica",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    }
+  ],
+  "Robusta": [
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Robusta",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "Non Kopi": [
+    {
+      "foto": "images/produk/es_krim.jpg",
+      "nama": "Ice Cream",
+      "size": "100 Gram",
+      "harga": "10.000",
+      "link": "https://kumparan.com/viral-food-travel/45-jenis-es-krim-dan-besaran-kalorinya-1zaIfE5dwVq"
+    }
+  ]
+}
