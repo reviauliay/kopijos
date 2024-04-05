@@ -1,5 +1,5 @@
 {
-  "Arabica": [
+  "arabica": [
     {
       "foto": "images/produk/product_capuchino.jpg",
       "nama": "Cappuccino Arabica",
@@ -22,22 +22,50 @@
       "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
     }
   ],
-  "Robusta": [
+  "robusta": [
     {
       "foto": "images/produk/product_latte.jpg",
       "nama": "Latte Robusta",
       "size": "150 Gram",
       "harga": "150.000",
       "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    },
+    {
+      "nama": "Kopi Robusta Temanggung",
+      "size": "130 ml",
+      "harga": "13.000",
+      "link": "#https://halalpedia.oss-ap-southeast-5.aliyuncs.com/2021/04/20210415185241-60782909beb6a-rn_image_picker_lib_temp_f3f98976-1ded-452d-9c9b-376752038736.jpg",
+      "foto": "images/produk/robusta_temanggung.jpg"
+    },
+    {
+      "nama": "Kopi Robusta Pupuan",
+      "size": "110 ml",
+      "harga": "11.000",
+      "link": "#https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkp1uufwkx4072",
+      "foto": "images/produk/robusta_papuan.jpg"
     }
   ],
-  "Non Kopi": [
+  "nonkopi": [
     {
-      "foto": "images/produk/es_krim.jpg",
+      "foto": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gp2zzvb9khd9ejv13jvs30az.jpg",
       "nama": "Ice Cream",
       "size": "100 Gram",
       "harga": "10.000",
       "link": "https://kumparan.com/viral-food-travel/45-jenis-es-krim-dan-besaran-kalorinya-1zaIfE5dwVq"
+    },
+    {
+      "nama": "Teh",
+      "size": "150 ml",
+      "harga": "15.000",
+      "link": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2021/06/15093247/Ketahui-Fakta-Es-Teh-Manis.jpg",
+      "foto": "images/produk/es_teh.jpg"
+    },
+    {
+      "nama": "Air Putih",
+      "size": "100 ml",
+      "harga": "10.000",
+      "link": "##https://jektvnews.disway.id/upload/f5492b79693cdf28b377ebc8fd40ecb1.jpg",
+      "foto": "images/produk/air_putih.jpg"
     }
   ]
 }
